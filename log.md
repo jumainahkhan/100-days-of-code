@@ -22,3 +22,14 @@ Back and Biceps day at the gym. Started Gate preparatiom with OS topic.
 1. [Longest Subarray with given Sum K(Positives)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
 2. [Longest Subarray with sum K | (Postives and Negatives)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
 3. [Gate Smashers OS playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+
+### Day 3: November 7th, 2023
+
+**Today's Progress**: Did few easy leetcode questions by simply browsing. 
+Chest and Triceps day at the gym. 
+
+**Thoughts** Was way too caught up so couldn't work much but I tried to do few leetcode problems.
+
+**Link(s) to work**
+1. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+2. [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
